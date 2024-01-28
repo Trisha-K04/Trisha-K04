@@ -1,0 +1,6 @@
+CODING DIARY'S👩‍💻.WORK IN PROGRESS📈.PROGRAMMER MODE✨
+
+<!---
+Trisha-K04/Trisha-K04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
